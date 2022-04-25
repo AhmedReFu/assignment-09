@@ -1,0 +1,11 @@
+.nav-item a {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.nav-item a:hover {
+    background-color: gold;
+}
